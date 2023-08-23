@@ -1,1 +1,2 @@
 
+![Image](https://github.com/solo-ol/Data_analyst/assets/142893822/cd9cf0d9-f7f4-49f6-b55e-19bb1d7d6f22)
