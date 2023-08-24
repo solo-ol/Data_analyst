@@ -3,7 +3,7 @@
 На основе всех полученных данных в курсе выполнить буткемп-проект по одной из выбранной областей, 
 провести
 
-## Часть I: [Банки — Сегментация пользователей по потреблению]([https://github.com/ovalentinka/Data_analyst/blob/3e4272acf1b22cbf9e49706375ad128ead6b89b8/graduation_project/yandex_ex1_bank_karpova_new.ipynb](https://github.com/solo-ol/Data_analyst/blob/a260bf66c8eb1775d848b89327b8604ac199b09a/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E./Graduation%20project.%20User%20segmentation%20by%20consumption..ipynb))
+## Часть I: [Банки — Сегментация пользователей по потреблению](https://github.com/solo-ol/Data_analyst/blob/main/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E./Graduation%20project.%20User%20segmentation%20by%20consumption..ipynb)
 
 ### Цель исследования
 Анализ и сегментация клиентов регионального банка по количеству потребляемых продуктов:
@@ -38,7 +38,7 @@
 *pandas, numpy, matplotlib, seaborn, scikit learn, scipy*
 
 
-## Часть II: [[A/B-тестирование](https://github.com/ovalentinka/Data_analyst/blob/3e4272acf1b22cbf9e49706375ad128ead6b89b8/graduation_project/yandex_ex2_ab_karpova_new.ipynb](https://github.com/solo-ol/Data_analyst/blob/main/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E./%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BF%D0%BE%20%D0%90B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.ipynb))
+## Часть II: [A/B-тестирование](https://github.com/solo-ol/Data_analyst/blob/main/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E./%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BF%D0%BE%20%D0%90B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.ipynb)
 
 ### Цель исследования
 Проведение оценки результатов A/B-теста после введения улучшенной программы рекомендаций для региона EU.
@@ -52,7 +52,7 @@
 
 *pandas, numpy, matplotlib, seaborn, math, datetime, scipy*
 
-## Часть III: [SQL]([https://github.com/ovalentinka/Data_analyst/blob/3e4272acf1b22cbf9e49706375ad128ead6b89b8/graduation_project/yandex_ex3_SQL_karpova_new.ipynb](https://github.com/solo-ol/Data_analyst/blob/main/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E./%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BF%D0%BE%20SQL.ipynb)https://github.com/solo-ol/Data_analyst/blob/main/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E./%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BF%D0%BE%20SQL.ipynb)
+## Часть III: [SQL](https://github.com/solo-ol/Data_analyst/blob/main/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E./%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BF%D0%BE%20SQL.ipynb)
 
 Проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские
 обзоры книг. 
